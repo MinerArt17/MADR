@@ -1,0 +1,746 @@
+{
+    "afobazol": [
+        {
+            "side effects": [
+                "side effects",
+                "anxiety"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "alimemazine": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "amlodipine": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "glucose",
+                "hypertension",
+                "palpitations",
+                "adverse reactions",
+                "jaundice",
+                "vigilance adverse reaction",
+                "mild-to-moderate hypertension",
+                "grade 2 hypertension",
+                "diarrhea",
+                "dizziness",
+                "headache",
+                "insomnia",
+                "nausea",
+                "rash",
+                "vomiting",
+                "grade 1 hypertension",
+                "itching",
+                "drug-induced hyponatraemia"
+            ],
+            "first met": [
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025"
+            ]
+        }
+    ],
+    "analgin": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "edema",
+                "ear edema",
+                "fever",
+                "pain",
+                "neutropenia",
+                "infection complication",
+                "infection",
+                "depression",
+                "respiratory depression",
+                "hepatotoxicity",
+                "nephrotoxicity",
+                "bleeding",
+                "hypotension",
+                "lower back pain",
+                "chills",
+                "allergic reactions/anaphylaxis",
+                "nausea",
+                "nausea scores",
+                "gastrointestinal bleeding",
+                "anaphylaxis",
+                "pruritus",
+                "swelling",
+                "vomiting",
+                "high fever",
+                "fever group",
+                "adverse reactions",
+                "postoperative vomiting",
+                "fever-associated symptoms",
+                "transient urticaria",
+                "rash",
+                "urticaria",
+                "hallucinations",
+                "hematuria"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "aviandr": [
+        {
+            "side effects": [
+                "side effects",
+                "anxiety"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "codeine": [
+        {
+            "side effects": [
+                "side effects",
+                "constipation",
+                "pain",
+                "nothing",
+                "side effect",
+                "side effect profile",
+                "coughing",
+                "diarrhea",
+                "nausea",
+                "abdominal pain"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "escitalopram": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "depression",
+                "insomnia",
+                "irritability",
+                "anxiety",
+                "nausea",
+                "hamilton depression scale",
+                "hamilton anxiety scale",
+                "hamilton depression rating scale",
+                "hamilton anxiety rating scale",
+                "side effect scale",
+                "beck depression inventory scale",
+                "uku-side effect scale",
+                "vomiting",
+                "mild cognitive impairment",
+                "seizure",
+                "tremor",
+                "weight gain",
+                "drug-induced liver injury",
+                "side effect rating scale",
+                "hamilton depression",
+                "hamilton anxiety (hama) scales",
+                "treatment-related side effects",
+                "dizziness",
+                "montgomery-åsberg depression rating scale",
+                "depression rating scales",
+                "drowsiness",
+                "blurred vision",
+                "undesirable effects",
+                "beck's depression inventory",
+                "side effect",
+                "fatigue",
+                "child/adolescent anxiety multimodal study",
+                "glucose",
+                "pain",
+                "bipolar depression",
+                "total cholesterol (tc)/triglycerides/weight gain",
+                "cancer-related depression",
+                "treatment-resistant depression",
+                "treatment-resistant unipolar depression",
+                "headaches",
+                "depression study",
+                "insomnia prs",
+                "toronto side effects scale",
+                "anxious depression",
+                "headache",
+                "national institutes of health stroke scale",
+                "edinburgh-scandinavian stroke scale",
+                "adverse reactions",
+                "angioedema'"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "ethylmethylhydroxypyridine succinate": [
+        {
+            "side effects": [
+                "side effects",
+                "anxiety",
+                "depression",
+                "nothing",
+                "beck anxiety scale",
+                "lipid peroxidation",
+                "reactive oxygen species"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "exenatide": [
+        {
+            "side effects": [
+                "side effects",
+                "dysgeusia",
+                "tinnitus",
+                "dizziness",
+                "pain",
+                "vertigo",
+                "nothing",
+                "weight loss",
+                "glucose",
+                "nausea",
+                "vomiting",
+                "insulin resistance",
+                "constipation",
+                "diarrhea",
+                "abdominal pain",
+                "gi bleeding",
+                "insomnia",
+                "general medical condition-insomnia type",
+                "self-induced vomiting",
+                "depression",
+                "hyperglycemia",
+                "hypoglycemia",
+                "acute ischemic stroke",
+                "stroke",
+                "national institutes of health stroke scale score",
+                "national institutes of health stroke scale scores",
+                "poststroke",
+                "lower diarrhea rate",
+                "weight gain",
+                "non-fatal stroke",
+                "gastroesophageal reflux disease",
+                "abdominal pain upper",
+                "dyspepsia",
+                "hypoglycaemia",
+                "per heart failure",
+                "heart failure",
+                "genital infections"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "fabomotizole": [
+        {
+            "side effects": [
+                "side effects",
+                "anxiety"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "ibuprofen": [
+        {
+            "side effects": [
+                "side effects",
+                "pain",
+                "arthritis",
+                "nothing",
+                "fetal nephrotoxicity",
+                "swelling",
+                "side effect profile"
+            ],
+            "first met": [
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025"
+            ]
+        }
+    ],
+    "imcivree": [
+        {
+            "side effects": [
+                "side effects",
+                "diarrhea",
+                "nausea",
+                "vomiting",
+                "anxiety",
+                "insulin resistance",
+                "nothing",
+                "glucose",
+                "weight loss"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "inosine pranobex": [
+        {
+            "side effects": [
+                "side effects",
+                "fever",
+                "hypertension",
+                "pain",
+                "cough",
+                "chest pain",
+                "bacterial superinfection",
+                "nothing"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "ozempic": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "dysgeusia",
+                "tinnitus",
+                "headache",
+                "adverse reaction",
+                "weight loss",
+                "weight loss population",
+                "diarrhea",
+                "glucose",
+                "glucose dysregulation",
+                "nausea",
+                "vomiting",
+                "switching",
+                "hypoglycaemia",
+                "cognitive impairment",
+                "drug-induced"
+            ],
+            "first met": [
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025"
+            ]
+        }
+    ],
+    "paracetamol": [
+        {
+            "side effects": [
+                "side effects",
+                "pain",
+                "side effect",
+                "nothing",
+                "headache",
+                "toothache",
+                "constipation",
+                "nausea",
+                "vomiting",
+                "pruritus",
+                "sore throat",
+                "acute sore throat",
+                "viral sore throat",
+                "dizziness",
+                "hepatotoxicity",
+                "treatment-related side effects",
+                "deep vein thrombosis",
+                "diarrhea",
+                "knee osteoarthritis",
+                "western ontario and mcmaster universities osteoarthritis index",
+                "knee arthritis",
+                "i-iii osteoarthritis",
+                "osteoarthritis",
+                "side effect profile",
+                "coughing",
+                "seizures"
+            ],
+            "first met": [
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025"
+            ]
+        }
+    ],
+    "radium chloride": [
+        {
+            "side effects": [
+                "side effects",
+                "pain"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "rifaximin": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "anemia",
+                "infection prevention",
+                "glucose",
+                "functional dyspepsia",
+                "flatulence",
+                "diarrhea",
+                "escherichia coli-related infections",
+                "bacterial infections",
+                "constipation",
+                "pain",
+                "abdominal pain",
+                "hepatitis c cirrhosis",
+                "antidiarrheals",
+                "nausea",
+                "h. pylori infection",
+                "non-investigated dyspepsia",
+                "mean abdominal pain",
+                "bloating scores",
+                "acute diarrhea",
+                "escherichia coli infections",
+                "infection-related",
+                "infection-associated aes",
+                "infections"
+            ],
+            "first met": [
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025",
+                "22_02_2025"
+            ]
+        }
+    ],
+    "sitagliptin": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "glucose",
+                "hypoglycemia",
+                "angioedema",
+                "hypoglycemia-led"
+            ],
+            "first met": [
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025"
+            ]
+        }
+    ],
+    "troximetacin": [
+        {
+            "side effects": [
+                "side effects"
+            ],
+            "first met": [
+                "22_02_2025"
+            ]
+        }
+    ],
+    "vitamin b12": [
+        {
+            "side effects": [
+                "side effects",
+                "nothing",
+                "bloating",
+                "pain",
+                "weight loss",
+                "diarrhea",
+                "hypertension",
+                "total body weight loss",
+                "body weight loss",
+                "iron deficiency anemia"
+            ],
+            "first met": [
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025",
+                "18_02_2025"
+            ]
+        }
+    ],
+    "vitamin c": [
+        {
+            "side effects": [
+                "side effects",
+                "reactive oxygen species",
+                "adverse side effects",
+                "covid-19 infections",
+                "viral infections",
+                "palpitations",
+                "adverse reactions",
+                "jaundice",
+                "nothing"
+            ],
+            "first met": [
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025",
+                "19_02_2025"
+            ]
+        }
+    ]
+}
