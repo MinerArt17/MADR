@@ -13,6 +13,14 @@ st.set_page_config(
     page_title="MADR",
     layout="wide"
     )
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Переменные состояния (не будут обновляться при каждом взаимодействии с сайтом)
 if 'user_input' not in st.session_state:
